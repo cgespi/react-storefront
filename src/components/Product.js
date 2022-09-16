@@ -111,7 +111,7 @@ function Product() {
                                             </div>
                                         </div>
                                         <p className="text-muted">{product.description}</p>
-                                        <div className="cart mt-4 align-items-center"> <button className="btn btn-outline-dark text-uppercase mr-2 px-4">Buy</button> </div>
+                                        <div className="cart mt-4 align-items-center"> <button className="btn btn-outline-dark text-uppercase mr-2 px-4">Add to Cart</button> </div>
                                     </div>
                                 </div>
                             </div>

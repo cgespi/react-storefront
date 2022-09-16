@@ -5,6 +5,8 @@ import Products from './components/Products';
 import Product from './components/Product';
 import Footer from './components/Footer';
 import { Route, Routes } from 'react-router-dom';
+import { CartProvider } from './CartContext';
+import { useDispatchCart } from './CartContext'
 
 function App() {
   return (
